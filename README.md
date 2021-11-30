@@ -2,7 +2,7 @@
 <div>
   <a href="https://github.com/caiomartins2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiomartins2&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div> <br>
+</div></br>
 
   
  
@@ -14,7 +14,7 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="C" height="30" width="40" style="border-radius:10px;"src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
  <!-- <img align="right" alt="pic" height="150" style="border-radius:50px;" src=""> -->
-</div><br>
+</div></br>
   
   
  
